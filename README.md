@@ -1,6 +1,6 @@
 # Bright Data's Russia Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/ru) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/ru) 
 
 ## 개요
 정확한 타겟팅, 타의 추종을 불허하는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Russia プロキシ](https://brightdata.co.kr/locations/ru)로 매끄러운 スクレイピング을 경험해 보시기 바랍니다. Russia에서 웹사이트를 スクレイピング하기 시작하고 다시는 차단되지 마시기 바랍니다.
@@ -43,7 +43,7 @@
 - **3G/4G/5G モバイル IPs**
 - **24/7 글로벌 지원**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/ru) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/ru) 
 
 ## Bright Data의 United States proxies 시작하기
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
